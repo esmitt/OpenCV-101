@@ -5,3 +5,5 @@ This code needs dll files:
 - opencv_ffmpeg330_64
 - opencv_world330
 - opencv_world330d
+
+>> This was created using Visual Studio Community 2017
